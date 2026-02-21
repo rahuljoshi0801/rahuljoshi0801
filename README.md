@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full Stack Developer with hands-on experience building scalable AI-powered web applications using Node.js, Python, JavaScript, and TensorFlow. Delivered machine learning systems achieving 80%+ prediction accuracy and improved backend performance by 25–30% through optimized REST API development and data processing. Strong foundation in data structures, algorithms, and software development lifecycle. Proven ability to design, develop, and deploy production-ready full stack applications.<br>•	Bachelor of Technology (B.Tech), Computer Science and Engineering			/ 2024-Present<br>Graphic Era Hill University, Bhimtal, Uttarakhand 		<br>
+Full Stack Developer with hands-on experience building scalable AI-powered web applications using Node.js, Python, JavaScript, and TensorFlow. Delivered machine learning systems achieving 80%+ prediction accuracy and improved backend performance by 25–30% through optimized REST API development and data processing. Strong foundation in data structures, algorithms, and software development lifecycle. Proven ability to design, develop, and deploy production-ready full stack applications.
+
+<br>•	Bachelor of Technology (B.Tech), Computer Science and Engineering			/ 2024-Present<br>Graphic Era Hill University, Bhimtal, Uttarakhand 		<br>
 
 
 ## 🌐 Socials:
