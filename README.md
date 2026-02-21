@@ -1,7 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with hands-on experience building scalable AI-powered web applications using Node.js, Python, JavaScript, and TensorFlow. Delivered machine learning systems achieving 80%+ prediction accuracy and improved backend performance by 25–30% through optimized REST API development and data processing. Strong foundation in data structures, algorithms, and software development lifecycle. Proven ability to design, develop, and deploy production-ready full stack applications.
-
-<br>•	Bachelor of Technology (B.Tech), Computer Science and Engineering			/ 2024-Present<br>Graphic Era Hill University, Bhimtal, Uttarakhand 		<br>
+Full Stack Developer with hands-on experience building scalable AI-powered web applications using Node.js, Python, JavaScript, and TensorFlow. Delivered machine learning systems achieving 80%+ prediction accuracy and improved backend performance by 25–30% through optimized REST API development and data processing. Strong foundation in data structures, algorithms, and software development lifecycle. Proven ability to design, develop, and deploy production-ready full stack applications.<br>•	Bachelor of Technology (B.Tech), Computer Science and Engineering			/ 2024-Present<br>Graphic Era Hill University, Bhimtal, Uttarakhand 		<br>
 
 
 ## 🌐 Socials:
@@ -13,12 +11,6 @@ Full Stack Developer with hands-on experience building scalable AI-powered web a
 ![](https://github-readme-stats.vercel.app/api?username=rahuljoshi0801&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rahuljoshi0801&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljoshi0801&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahuljoshi0801&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahuljoshi0801&icon=0&color=0)](https://visitcount.itsvg.in)
